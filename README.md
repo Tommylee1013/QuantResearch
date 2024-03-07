@@ -1,2 +1,3 @@
-# QuantResearch
+## QuantResearch
+
 Financial Quant Research 
